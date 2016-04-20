@@ -13,10 +13,10 @@ For some, this is there very first experience working with git and even within a
 
 
 ## Requirements for compiling
-1. Java
-2. Lightweight Java Game Library 2 (LWJGL2)
-3. Slick
-4. JUnit
+1. [Java](https://java.com/)
+2. [Lightweight Java Game Library 2](http://legacy.lwjgl.org/)
+3. [Slick](http://slick.ninjacave.com/)
+4. [JUnit](http://junit.org/)
 
 
 ## Features
@@ -24,4 +24,4 @@ For some, this is there very first experience working with git and even within a
 - [x] Up to four players
 - [x] Custom Map Making
 - [x] Linearly increasing 'Monster' speed
-- [] Two Monsters on 
+- [ ] Two Monsters on the board
